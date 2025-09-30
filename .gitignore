@@ -1,0 +1,33 @@
+# Python build artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Distribution / packaging
+*.egg-info/
+build/
+dist/
+
+# Streamlit cache/state
+.streamlit/
+
+# VS Code / IDE settings
+.vscode/
+.idea/
+
+# Local data exports
+*.csv
+*.png
+*.json
+*.log
+
+# OS junk
+Thumbs.db
+.DS_Store
+
